@@ -19,7 +19,7 @@ Designed for unattended systems, kiosks, and remote Windows environments.
 
 ---
 
-## 📂 Project Structure
+📂 Project Structure
 
 MemoryMonitorNMI/
 │
@@ -32,8 +32,6 @@ MemoryMonitorNMI/
 ├── readme.pdf                    # PDF usage documentation
 ├── LICENSE                       # MIT License
 └── README.md                     # This file
-
-
 
 ---
 
