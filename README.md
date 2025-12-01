@@ -20,7 +20,7 @@ Designed for unattended systems, kiosks, and remote Windows environments.
 ---
 
 ## 📂 Project Structure
-
+```
 MemoryMonitorNMI/
 │
 ├── MemoryMonitorNMI.exe          # Compiled executable (ready to run)
@@ -32,7 +32,7 @@ MemoryMonitorNMI/
 ├── readme.pdf                    # PDF usage documentation
 ├── LICENSE                       # MIT License
 └── README.md                     # This file
-
+```
 ---
 
 ## ⚙️ Configuration (`config.json`)
