@@ -23,15 +23,16 @@ Designed for unattended systems, kiosks, and remote Windows environments.
 
 MemoryMonitorNMI/
 │
-├── MemoryMonitorNMI.exe # Compiled executable (ready to run)
-├── MemoryMonitorNMI.py # Main source script
-├── INSTALL.bat # Installs + autostarts the monitor
-├── UNINSTALL.bat # Removes autostart + files
-├── config.json # Editable configuration file
-├── memorymonitor_icon.ico # Tray icon
-├── readme.pdf # PDF usage documentation
-├── LICENSE # MIT License
-└── README.md # This file
+├── MemoryMonitorNMI.exe          # Compiled executable (ready to run)
+├── MemoryMonitorNMI.py           # Main source script
+├── INSTALL.bat                   # Installs + autostarts the monitor
+├── UNINSTALL.bat                 # Removes autostart + files
+├── config.json                   # Editable configuration file
+├── memorymonitor_icon.ico        # Tray icon
+├── readme.pdf                    # PDF usage documentation
+├── LICENSE                       # MIT License
+└── README.md                     # This file
+
 
 
 ---
