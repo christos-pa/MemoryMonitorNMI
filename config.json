@@ -1,0 +1,31 @@
+{
+  "monitor_settings": {
+    "check_interval_seconds": 60,
+    "threshold_percent": 90,
+    "required_duration_minutes": 30
+  },
+  "alert_settings": {
+    "enable_email_alerts": true,
+    "send_once_per_episode": true,
+    "include_top_processes": true,
+    "max_processes": 5
+  },
+  "email_settings": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "use_tls": true,
+    "smtp_username": "your_email_here@gmail.com",
+    "smtp_password": "YOUR_APP_PASSWORD_HERE",
+    "email_from": "your_email_here@gmail.com",
+    "email_to": ["recipient@example.com"],
+    "email_subject": "NMI Memory Alert - [HOSTNAME] Above 90%",
+    "email_prefix_text": "This is an automated memory alert from MemoryMonitorNMI."
+  },
+  "logging": {
+    "log_enabled": true,
+    "log_directory": "logs",
+    "log_level": "INFO",
+    "max_log_size_mb": 5,
+    "backup_log_files": 3
+  }
+}
