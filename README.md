@@ -19,7 +19,7 @@ Designed for unattended systems, kiosks, and remote Windows environments.
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 MemoryMonitorNMI/
 │
