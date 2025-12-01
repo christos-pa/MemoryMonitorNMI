@@ -76,7 +76,7 @@ Example configuration:
     "max_log_size_mb": 5,
     "backup_log_files": 3
   }
-}
+}```
 
 ---
 
